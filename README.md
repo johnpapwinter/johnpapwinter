@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm an aspiring junior software engineer<br>⚡ I've completed a 6-month long coding bootcamp in AUEB<br>🌱 I’m focusing on Java, C#, Python, and various Front End technologies<br>👯 I’m looking to collaborate on ... Java or Python projects<br>💬 Ask me about anything!<br><br>
+🔭I'm an aspiring junior software engineer<br>⚡ I've completed a 6-month long coding bootcamp in AUEB<br>🌱 I’m focusing on Java, C#, Python, and various Front End technologies<br>👯 I’m looking to collaborate on... Java or Python projects<br>💬 Ask me about anything!<br><br>
 
 
 ## 🌐 Socials:
