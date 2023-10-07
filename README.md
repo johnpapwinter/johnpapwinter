@@ -10,6 +10,3 @@
     <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,cs,css,dotnet,flask,git,hibernate,html,java,js,maven,mongodb,mysql,nestjs,nodejs,postgres,postman,py,spring,ts" />
   </a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnpapwinter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
