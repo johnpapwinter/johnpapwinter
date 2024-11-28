@@ -7,6 +7,6 @@
 
 # 💻 Tech Stack:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,css,fastapi,flask,git,hibernate,html,java,js,maven,mongodb,mysql,nestjs,nodejs,postgres,postman,py,rust,spring,sklearn,ts" />
+    <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,css,docker,fastapi,flask,git,hibernate,html,java,js,maven,mongodb,mysql,nestjs,nodejs,postgres,postman,py,rust,spring,sklearn,ts" />
   </a>
 
