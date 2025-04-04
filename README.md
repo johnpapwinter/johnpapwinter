@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm an aspiring junior software engineer<br>⚡ I've completed a 6-month long coding bootcamp in AUEB<br>🌱 I’m focusing on Java, NestJS, Python, and Angular<br>👯 I’m looking to collaborate on... Java, NestJS and/or Python projects<br>💬 Ask me about anything!<br><br>
+🔭I'm an aspiring software engineer<br>⚡ I'm currently completing a M.Sc. in Software Engineering and AI<br>🌱 I’m focusing on Java, Python, Rust, and Angular<br>👯 I’m looking to collaborate on... Java, and/or Python projects<br>💬 Ask me about anything!<br><br>
 
 
 ## 🌐 Socials:
